@@ -1,0 +1,11 @@
+C:\Users\Victoria Mendoza\source\repos\Tamagochy\Tamagochy\bin\Debug\netcoreapp2.1\Tamagochy.deps.json
+C:\Users\Victoria Mendoza\source\repos\Tamagochy\Tamagochy\bin\Debug\netcoreapp2.1\Tamagochy.runtimeconfig.json
+C:\Users\Victoria Mendoza\source\repos\Tamagochy\Tamagochy\bin\Debug\netcoreapp2.1\Tamagochy.runtimeconfig.dev.json
+C:\Users\Victoria Mendoza\source\repos\Tamagochy\Tamagochy\bin\Debug\netcoreapp2.1\Tamagochy.dll
+C:\Users\Victoria Mendoza\source\repos\Tamagochy\Tamagochy\bin\Debug\netcoreapp2.1\Tamagochy.pdb
+C:\Users\Victoria Mendoza\source\repos\Tamagochy\Tamagochy\obj\Debug\netcoreapp2.1\Tamagochy.csprojAssemblyReference.cache
+C:\Users\Victoria Mendoza\source\repos\Tamagochy\Tamagochy\obj\Debug\netcoreapp2.1\Tamagochy.csproj.CoreCompileInputs.cache
+C:\Users\Victoria Mendoza\source\repos\Tamagochy\Tamagochy\obj\Debug\netcoreapp2.1\Tamagochy.AssemblyInfoInputs.cache
+C:\Users\Victoria Mendoza\source\repos\Tamagochy\Tamagochy\obj\Debug\netcoreapp2.1\Tamagochy.AssemblyInfo.cs
+C:\Users\Victoria Mendoza\source\repos\Tamagochy\Tamagochy\obj\Debug\netcoreapp2.1\Tamagochy.dll
+C:\Users\Victoria Mendoza\source\repos\Tamagochy\Tamagochy\obj\Debug\netcoreapp2.1\Tamagochy.pdb
