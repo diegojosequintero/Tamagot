@@ -67,7 +67,7 @@ namespace Tamagochy
                             accion.estadoJunior();
 
                             string b = Console.ReadLine();
-                            bool init3 = Int32.TryParse(a, out int opcion3);
+                            bool init3 = Int32.TryParse(b, out int opcion3);
                             while (!init3) ;
                             while (opcion3 < 1 && opcion3 > 9 && opcion3 != 0) ;
                             switch (opcion3)

@@ -18,8 +18,8 @@ namespace Tamagochy
             internal void Corre()
             {
                 estadoFisico -= 3;
-                estadoHambre -= 20;
-                estadoAnimo -= 2;
+                estadoHambre += 20;
+                estadoAnimo += 2;
                 tiempo += 1;
             }
             internal void Come()
